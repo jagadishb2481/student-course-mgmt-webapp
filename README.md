@@ -1,3 +1,8 @@
+# Softwwares used
+Jdk 11
+Tomcat v11.0
+Eclipse Version: 2024-09 (4.33.0)
+
 # student-course-mgmt-webapp
 student-course-mgmt-webapp using Servlets and JSP
 it uses services that are created in the repository https://github.com/jagadishb2481/student-course-mgmt-java
