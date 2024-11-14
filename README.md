@@ -1,4 +1,4 @@
-# Softwwares used
+# Softwares used
 Jdk 11
 Tomcat v11.0
 Eclipse Version: 2024-09 (4.33.0)
